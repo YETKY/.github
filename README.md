@@ -2,5 +2,7 @@
 
 # YETKY
 
-En basit tanımıyla kimlik sağlama servisidir. Öğrenci, Öğretmen, Sağlık çalışanları hatta bir firma çalışanlarının
-kimliklerini doğrularak indirimlerden kolayca yararlanmalarını sağlar.
+En basit tanımıyla kimlik sağlama servisidir. Öğrenci, Öğretmen, Sağlık çalışanları hatta bir firma 
+çalışanlarının kimliklerini doğrulayarak indirimlerden kolayca yararlanmalarını sağlar. 
+Bunu kişilerin kişisel kimlik bilgilerini mağazalar ile paylaşmasına gerek kalmadan yapar.
+
