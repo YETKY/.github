@@ -1,5 +1,5 @@
 
-![](C:/Users/beyza/Desktop/indir.png)
+![](https://github.com/YETKY/.github/assests/logo.png?raw=true)
 
 #YETKY
 
