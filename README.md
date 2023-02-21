@@ -14,6 +14,13 @@ bilgilerini doldurarak formu doğrulama için gönderir. Doğrulama işlemi tama
 indirimleriyle devam eder. Ayrıca doğrulaması tamamlanan bir öğrenci daha sonra yaptığı her mağaza ya da alışverişinde tekrardan kendini teyit
 ettirmesine gerek kalmadan indirimlerden yararlanmaya devam eder.
 
+<h1 style="color:#ff5722; font-family:'Alfa Slab One';">KİMLİK DOĞRULAMA YÖNTEMLERİ</h1>
+Kimlik doğrulama işlemi birden fazla yöntemle doğrulanabilir.
+
+- InAcademia ile öğrenci doğrulama
+- @*.edu.tr gibi uzantılı mail üzerinden onaylama
+- Belge istenilerek doğrulama 
+- QR Kod Doğrulaması
 
 
 
