@@ -24,4 +24,7 @@ Kimlik doğrulama işlemi birden fazla yöntemle doğrulanabilir.
 
 
 
+![image](https://user-images.githubusercontent.com/25342964/220350277-11ca641a-9564-436b-aa13-bfcfca5cd0ef.png)
+
+
 
