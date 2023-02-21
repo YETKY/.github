@@ -3,7 +3,7 @@
 
 <h1 style="color:#ff5722; font-family:'Alfa Slab One';">YETKY</h1>
 
-En basit tanımıyla kimlik sağlama servisidir. Öğrenci, Öğretmen, Sağlık çalışanları hatta bir firma 
+En basit tanımıyla kimlik sağlama servisidir. [YETKY](https://yetky.com/), öğrenci, öğretmen, sağlık çalışanları hatta bir firma 
 çalışanlarının kimliklerini doğrulayarak indirimlerden kolayca yararlanmalarını sağlar. 
 Bunu kişilerin kişisel kimlik bilgilerini mağazalar ile paylaşmasına gerek kalmadan yapar.
 
